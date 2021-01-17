@@ -2,8 +2,6 @@
 <h3 align="center">I'm not an entrepreneur, nor a CEO. I'm a lazy programmer who trying to do his best.</h3>
 <br />
 
-- 🔭 I’m currently working on [Task Management App](https://github.com/iahmadamin/task_management)
-
 - 🌱 I’m availble for freelance projects.
 
 - 💬 Ask me about **Flutter, Dart**
