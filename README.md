@@ -7,8 +7,6 @@
 - 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **iahmadamin@yahoo.com**
-
-- ⚡ Fun fact **I'm learning to play guitar.**
 <br />
 
 <h3 align="left">Connect with me:</h3>
