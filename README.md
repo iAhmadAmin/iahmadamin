@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmad Amin</h1>
-<h3 align="center">I'm not an entrepreneur, nor a CEO. I'm a lazy programmer who trying to do his best.</h3>
+<h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Ahmad Amin</h1>
 <br />
 
 - 🌱 I’m availble for freelance projects.
@@ -10,12 +9,10 @@
 <br />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_ahmadamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="i_ahmadamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iahmadamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iahmadamin" height="30" width="40" /></a>
-<a href="https://fb.com/iahmadamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iahmadamin" height="30" width="40" /></a>
-<a href="https://instagram.com/i_ahmadamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_ahmadamin" height="30" width="40" /></a>
-</p>
+[![Twitter: i_ahmadamin](https://img.shields.io/twitter/follow/i_ahmadamin?style=social)](https://twitter.com/i_ahmadamin))
+[![Linkedin: iahmadamin](https://img.shields.io/badge/-iahmadamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iahmadamin/)](https://www.linkedin.com/in/iahmadamin/)
+[![GitHub iahmadamin](https://img.shields.io/github/followers/iahmadamin?label=follow&style=social)](https://github.com/iahmadamin)
+[![Instagram i_ahmadamin](https://img.shields.io/badge/-i_ahmadmain-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/i_ahmadamin?/)](https://instagram.com/i_ahmadmain)
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
