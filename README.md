@@ -1,11 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">, I'm Ahmad Amin</h1>
 <br />
-
-- 🌱 I’m availble for freelance projects.
-
-- 💬 Ask me about **Flutter, Dart**
-
-- 📫 How to reach me **iahmadamin@yahoo.com**
+- Machine Learning Enthusiast
+- **iahmadamin@yahoo.com**
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
