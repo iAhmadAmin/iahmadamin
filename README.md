@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter projects.<br>👯 I’m looking to collaborate on Flutter Opensource projects.<br>🌱 I’m currently learning Dart and Flutter.<br>💬 Ask me about Dart and Flutter.
+💬 Ask me about Dart and Flutter.
 
 
 ## 🌐 Socials:
